@@ -11,3 +11,15 @@ Objective:
 •	The coordinates of the detected potholes will be get plotted on the maps.
 •	To send this information which will serve as a valuable source to the concerned authorities. i.e.  PWD office.
 •	In addition to that, Users can get the real-time information about the potholes on road and can avoid potholes.
+
+Methodology: 
+•	The camera placed in a vehicle will scan the road.
+•	The scanned data is sent for extract potholes from other characteristics of the road.
+•	When a pothole is detected, the data of the pothole (i.e. depth, width and coordinates) will get updated in a database.
+	As shown in block diagram below, the camera scans and the potholes are identified and the data is extracted and sent to the database.
+ 
+Pre-requisite:
+•	Knowledge on electronics
+•	Data analytics tools and language
+•	App development
+
